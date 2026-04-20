@@ -167,6 +167,3 @@ Data is persisted to browser's localStorage:
 - `transactions`: Array of transaction objects
 - `budget`: Monthly budget setting
 
-## License
-
-MIT
